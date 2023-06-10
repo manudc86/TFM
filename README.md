@@ -14,4 +14,5 @@ Para facilitar la comprensión del contenido para quien acceda a este repositori
 - En los siguientes capítulos, del "3. Preprocesado de datos y Análisis exploratorio" en adelante, se procede a resolver el problema. Para cada capítulo de la memoria, existe un capítulo homónimo en el notebook donde se puede consultar todo el código que se ha ejecutado.
 
 Espero que os sea de interés!
+
 Manuel Diz

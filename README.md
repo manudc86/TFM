@@ -4,9 +4,9 @@ Trabajo de Fin de Máster, para la obtención del Máster en Data Science y Busi
 
 Título del trabajo: "Machine Learning para Series Temporales. Estudio de diferentes modelos para la predicción de los niveles del río Arno".
 
-Este repositorio contiene dos archivos:
+Este repositorio contiene dos archivos principales:
 - Archivo pdf con la memoria del proyecto
-- Jupyter Notebook con el código del proyecto
+- Jupyter Notebook con el código del proyecto (junto con los .csv que se utilizan como datos de origen)
 
 Para facilitar la comprensión del contenido para quien acceda a este repositorio, se aclaran ciertos aspectos:
 - En los dos primeros capítulos de la memoria, "Resumen" y "1. Introducción", se explica de forma breve en qué consiste este trabajo.
